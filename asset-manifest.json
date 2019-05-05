@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-sample/static/css/main.d981dd15.chunk.css",
+    "main.js": "/react-sample/static/js/main.d55c7107.chunk.js",
+    "main.js.map": "/react-sample/static/js/main.d55c7107.chunk.js.map",
+    "runtime~main.js": "/react-sample/static/js/runtime~main.59592c43.js",
+    "runtime~main.js.map": "/react-sample/static/js/runtime~main.59592c43.js.map",
+    "static/css/2.c4e3626e.chunk.css": "/react-sample/static/css/2.c4e3626e.chunk.css",
+    "static/js/2.35ae79f2.chunk.js": "/react-sample/static/js/2.35ae79f2.chunk.js",
+    "static/js/2.35ae79f2.chunk.js.map": "/react-sample/static/js/2.35ae79f2.chunk.js.map",
+    "index.html": "/react-sample/index.html",
+    "precache-manifest.be7c05194210a475bc8fd083322dc271.js": "/react-sample/precache-manifest.be7c05194210a475bc8fd083322dc271.js",
+    "service-worker.js": "/react-sample/service-worker.js",
+    "static/css/2.c4e3626e.chunk.css.map": "/react-sample/static/css/2.c4e3626e.chunk.css.map",
+    "static/css/main.d981dd15.chunk.css.map": "/react-sample/static/css/main.d981dd15.chunk.css.map",
+    "static/media/app.scss": "/react-sample/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}

@@ -13,7 +13,7 @@ const App = ({ ...props }) => {
   const { isLoggedIn } = { ...props }
   return (
     <div className='App'>
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           {isLoggedIn ? <Redirect from='/login' to='/' /> : null}
           <AuthenticatedRoute path='/500' component={ServerError} />
